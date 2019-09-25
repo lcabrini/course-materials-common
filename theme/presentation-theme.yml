@@ -1,0 +1,8 @@
+extends: default
+base:
+    font-size: 18
+heading:
+    align: center
+    h2-font-size: 22
+code:
+    font-size: 16
